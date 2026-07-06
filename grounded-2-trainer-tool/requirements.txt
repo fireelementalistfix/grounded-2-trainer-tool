@@ -1,0 +1,4 @@
+pywin32==306
+keyboard==0.13.5
+pydantic==2.5.3
+pytest==7.4.4
